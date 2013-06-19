@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChapterSeven xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>7. Учебно-методическое и информационное обеспечение дисциплины:</Header>
+  <Line1>а) основная литература</Line1>
+  <Line2>б) дополнительная литература</Line2>
+  <Line3>в) программное обеспечение</Line3>
+  <PrimaryLiterature>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="PrimaryLiterature" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="PrimaryLiterature">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Books" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <PrimaryLiterature diffgr:id="PrimaryLiterature1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Books>Айсманн К., Дагган Ш. Креативная обработка фотоснимков. Школа Кэтрин Айсманн - СПб., Питер, 2011</Books>
+        </PrimaryLiterature>
+        <PrimaryLiterature diffgr:id="PrimaryLiterature2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Books>Бутусов О.Б. Радикульцева Н.И. Прикладная математика в системе MathCad. Учеб. пособие. О.Б.Бутусов, Н.И.Радикульцева. М., Изд-во Моск. Гуманит. Ун-та, 2010.</Books>
+        </PrimaryLiterature>
+        <PrimaryLiterature diffgr:id="PrimaryLiterature3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Books>ЕлистратовФ.М. Adobe Illustrator CS4. Официальный учебный курс. [пер. С англ. и ред. Ф.М.Елистратова]. М., Эксмо. 2009. </Books>
+        </PrimaryLiterature>
+        <PrimaryLiterature diffgr:id="PrimaryLiterature4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Books>ЕлистратовФ.М. Adobe Photoshop CS4. Официальный учебный курс. [пер. с англ. И ред. Ф.М.Елистратова]. М., Эксмо. 2009.</Books>
+        </PrimaryLiterature>
+        <PrimaryLiterature diffgr:id="PrimaryLiterature5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Books>Миронов Д.А. Компьютерная графика в дизайне. Учебник для вузов. Д.А.Миронов. СПб., БХВ-Петербург. 2008. </Books>
+        </PrimaryLiterature>
+        <PrimaryLiterature diffgr:id="PrimaryLiterature6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Books>Немцова Т.И., Назарова Ю.В., Гагарина Л.Г. Компьютерная графика и web-дизайн. Практикум в 2ч.: ч.2. Т.И.Немцова, Ю.В.Назарова. ред. Л.Г.Гагарина. М., Форум: ИНФРА-М. 2010. </Books>
+        </PrimaryLiterature>
+        <PrimaryLiterature diffgr:id="PrimaryLiterature7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Books>Сиденко Л.А. Компьютерная графика и геометрическое моделирование [учебное пособие]. Л.А.Сиденко. СПб.. Питер. 2009.</Books>
+        </PrimaryLiterature>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </PrimaryLiterature>
+  <AdditionalLiterature>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="AdditionalLiterature" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="AdditionalLiterature">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Books" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <AdditionalLiterature diffgr:id="AdditionalLiterature1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Books>Боресков А.В. Компьютерная графика. Полигональные модели.-М.: Диалог-Мифи, 2005</Books>
+        </AdditionalLiterature>
+        <AdditionalLiterature diffgr:id="AdditionalLiterature2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Books>Дегтярев В.М. Компьютерная геометрия и графика: учебник для вузов.- М.: Академия, 2010</Books>
+        </AdditionalLiterature>
+        <AdditionalLiterature diffgr:id="AdditionalLiterature3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Books>Назарова Ю.В., Немцова Т.И. Компьютерная графика и Web-дизайн. Практикум.-М.: Форум, 2009.-288 с.</Books>
+        </AdditionalLiterature>
+        <AdditionalLiterature diffgr:id="AdditionalLiterature4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Books>Сиденко Л.А. Компьютерная графика и геометрическое моделирование: уч. пос.-СПб.: Питер, 2009</Books>
+        </AdditionalLiterature>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </AdditionalLiterature>
+  <Software>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Software" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Software">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Programs" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <Software diffgr:id="Software1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Programs>AdobePhotoshop – проведение практических занятий по растровой графике. </Programs>
+        </Software>
+        <Software diffgr:id="Software2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Programs>AdobeIllustrator и Coreldraw – проведение практических занятий по векторной графике.</Programs>
+        </Software>
+        <Software diffgr:id="Software3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Programs>3DMaxStudio – проведение практических занятий по трехмерной (3D) графике.</Programs>
+        </Software>
+        <Software diffgr:id="Software4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Programs>AdobeFlashMX – работа с анимационными изображениями.</Programs>
+        </Software>
+        <Software diffgr:id="Software7" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Programs>Mkokh и/или Mfract и/или UltraFractal и/или FractalExplorer и/или ChaosPro и/или Mystica – проведение практических занятий по фрактальной графике.</Programs>
+        </Software>
+        <Software diffgr:id="Software8" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Programs>Mathcad – проведение практических занятий по использованию основных алгоритмов обработки графической информации.</Programs>
+        </Software>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </Software>
+</ChapterSeven>

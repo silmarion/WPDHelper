@@ -1,0 +1,4 @@
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\WPDHelper\bin\Debug\HelperLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\WPDHelper\bin\Debug\HelperLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\HelperLibrary\obj\Debug\HelperLibrary.pdb

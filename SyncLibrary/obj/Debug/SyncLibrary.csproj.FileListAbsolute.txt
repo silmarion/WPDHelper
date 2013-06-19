@@ -1,0 +1,5 @@
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\SyncLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\SyncLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\obj\Debug\SyncLibrary.csprojResolveAssemblyReference.cache
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\obj\Debug\SyncLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\obj\Debug\SyncLibrary.pdb

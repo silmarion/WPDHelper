@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TitlePage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <University>АНО ВПО "Московский гуманитарный университет"</University>
+  <CreatorPost>Проректор</CreatorPost>
+  <CreatorName>Ковалёва А.И.</CreatorName>
+  <Discipline>Компьютерная графика</Discipline>
+  <DisciplineCode>Б2.В.ОД.4</DisciplineCode>
+  <TrainingDirection>Прикладная информатика</TrainingDirection>
+  <ProfileTraining>Прикладная информатика в информационной сфере</ProfileTraining>
+  <Qualification>бакалавр</Qualification>
+  <FormOfTraining>очная</FormOfTraining>
+  <Сathedra>информатики и математики</Сathedra>
+  <City>Москва</City>
+  <Year>2012</Year>
+</TitlePage>

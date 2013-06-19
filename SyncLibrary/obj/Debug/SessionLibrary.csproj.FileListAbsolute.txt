@@ -1,0 +1,23 @@
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\SessionLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\SessionLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\DataLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\DocLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\XLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\DocLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\bin\Debug\XLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\obj\Debug\SessionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\obj\Debug\SessionLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\SyncLibrary\obj\Debug\SessionLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\WPDHelper\bin\Debug\SessionLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\WPDHelper\bin\Debug\SessionLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\SyncLibrary\obj\Debug\SessionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\SyncLibrary\obj\Debug\SessionLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\SyncLibrary\obj\Debug\SessionLibrary.pdb
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\WPDHelper\bin\Debug\SessionLibrary.dll
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\WPDHelper\bin\Debug\SessionLibrary.pdb
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\SyncLibrary\obj\Debug\SessionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\SyncLibrary\obj\Debug\SessionLibrary.dll
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\SyncLibrary\obj\Debug\SessionLibrary.pdb

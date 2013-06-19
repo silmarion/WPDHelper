@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChapterFour xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>4.	Структура и содержание дисциплины</Header>
+  <SubHeader1>4.1.	Распределение учебного времени по семестрам, разделам, темам и видам учебных занятий</SubHeader1>
+  <Info>Общая трудоемкость дисциплины составляет 6 з.e., 216 час.</Info>
+  <AuditoriumHours>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="AuditoriumHours" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="AuditoriumHours">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Вид_x0020_учебной_x0020_работы" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_4_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_5_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <AuditoriumHours diffgr:id="AuditoriumHours1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Аудиторные занятия (всего)</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>56</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>56</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+        <AuditoriumHours diffgr:id="AuditoriumHours2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Лекции</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>16</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>16</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+        <AuditoriumHours diffgr:id="AuditoriumHours3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Интерактивные и активные формы работы на лекциях</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>8</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>8</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+        <AuditoriumHours diffgr:id="AuditoriumHours4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Практические занятия</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>20</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>20</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+        <AuditoriumHours diffgr:id="AuditoriumHours5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Интерактивные и активные формы работы на практических занятиях</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>12</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>12</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </AuditoriumHours>
+  <IndependentHours>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="IndependentHours" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="IndependentHours">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Вид_x0020_учебной_x0020_работы" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_4_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_5_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <IndependentHours diffgr:id="IndependentHours1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Самостоятельная работа (всего)</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>52</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>43</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </IndependentHours>
+        <IndependentHours diffgr:id="IndependentHours2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Самостоятельная работа (всего)</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>52</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>43</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </IndependentHours>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </IndependentHours>
+  <Validation>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Validation" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Validation">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Вид_x0020_учебной_x0020_работы" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_4_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_5_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <Validation diffgr:id="Validation1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Вид промежуточной аттестации</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>Зачет</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>Экзамен</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </Validation>
+        <Validation diffgr:id="Validation2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Подготовка к экзамену</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>9</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </Validation>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </Validation>
+  <Chapters>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Chapters" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Chapters">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Наименование" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <Chapters diffgr:id="Chapters1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Наименование>Раздел 1</Наименование>
+        </Chapters>
+        <Chapters diffgr:id="Chapters2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Наименование>Раздел 2</Наименование>
+        </Chapters>
+        <Chapters diffgr:id="Chapters3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Наименование>Раздел 3</Наименование>
+        </Chapters>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </Chapters>
+  <ChaptersSumm>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ChaptersSumm" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="ChaptersSumm">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ChapterIndex" type="xs:string" minOccurs="0" />
+                  <xs:element name="ChapterName" type="xs:string" minOccurs="0" />
+                  <xs:element name="All" type="xs:string" minOccurs="0" />
+                  <xs:element name="Auditory" type="xs:string" minOccurs="0" />
+                  <xs:element name="Lecrute" type="xs:string" minOccurs="0" />
+                  <xs:element name="Practical" type="xs:string" minOccurs="0" />
+                  <xs:element name="Independant" type="xs:string" minOccurs="0" />
+                  <xs:element name="Validation" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <ChaptersSumm diffgr:id="ChaptersSumm4" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <ChapterIndex>1</ChapterIndex>
+          <ChapterName>Раздел 1</ChapterName>
+          <All>24</All>
+          <Auditory>10</Auditory>
+          <Lecrute>8</Lecrute>
+          <Practical>2</Practical>
+          <Independant>14</Independant>
+          <Validation>9</Validation>
+        </ChaptersSumm>
+        <ChaptersSumm diffgr:id="ChaptersSumm5" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <ChapterIndex>2</ChapterIndex>
+          <ChapterName>Раздел 2</ChapterName>
+          <All>178</All>
+          <Auditory>90</Auditory>
+          <Lecrute>28</Lecrute>
+          <Practical>62</Practical>
+          <Independant>88</Independant>
+        </ChaptersSumm>
+        <ChaptersSumm diffgr:id="ChaptersSumm6" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <ChapterIndex>3</ChapterIndex>
+          <ChapterName>Раздел 3</ChapterName>
+          <All>14</All>
+          <Auditory>8</Auditory>
+          <Lecrute>6</Lecrute>
+          <Practical>2</Practical>
+          <Independant>6</Independant>
+        </ChaptersSumm>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </ChaptersSumm>
+  <DistributionStudyTime>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DistributionStudyTime" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="DistributionStudyTime">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Наименование_x0020_темы" type="xs:string" minOccurs="0" />
+                  <xs:element name="Номер_x0020_раздела" type="xs:string" minOccurs="0" />
+                  <xs:element name="Компетенции" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр" type="xs:string" minOccurs="0" />
+                  <xs:element name="Неделя_x0020_семестра" type="xs:string" minOccurs="0" />
+                  <xs:element name="Лекции_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Практические_x0020_занятия_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Самостоятельная_x0020_работа_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Аттестация_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Введение</Наименование_x0020_темы>
+          <Номер_x0020_раздела>1</Номер_x0020_раздела>
+          <Компетенции>ПК-3</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>2</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>6</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Устройства ввода и вывода  графической информации</Наименование_x0020_темы>
+          <Номер_x0020_раздела>1</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>2</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>2</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Теоретические основы компьютерной графики</Наименование_x0020_темы>
+          <Номер_x0020_раздела>1</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>3</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>2</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>4</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Классификация и принципы построения графических систем</Наименование_x0020_темы>
+          <Номер_x0020_раздела>1</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>3</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>2</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Растровая (пиксельная графика)</Наименование_x0020_темы>
+          <Номер_x0020_раздела>2</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>4-13</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>12</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>30</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>42</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Векторная графика</Наименование_x0020_темы>
+          <Номер_x0020_раздела>2</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>2-8</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>12</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>24</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>36</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Фрактальная графика</Наименование_x0020_темы>
+          <Номер_x0020_раздела>2</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>9-10</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>4</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>6</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Трехмерная (3D) графика</Наименование_x0020_темы>
+          <Номер_x0020_раздела>2</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>11-12</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>4</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>4</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Основные алгоритмы обработки графической информации</Наименование_x0020_темы>
+          <Номер_x0020_раздела>3</Номер_x0020_раздела>
+          <Компетенции>ПК-9</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>12-13</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>4</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>2</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>4</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Форматы создания, сжатия и хранения графической информации</Наименование_x0020_темы>
+          <Номер_x0020_раздела>3</Номер_x0020_раздела>
+          <Компетенции>ПК-9</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>13-14</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>2</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </DistributionStudyTime>
+  <DistributionStudyTimeSumm>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DistributionStudyTimeSumm" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="DistributionStudyTimeSumm">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Semester" type="xs:string" minOccurs="0" />
+                  <xs:element name="AllSumm" type="xs:string" minOccurs="0" />
+                  <xs:element name="AuditorySumm" type="xs:string" minOccurs="0" />
+                  <xs:element name="ChapterIndex" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>8</AllSumm>
+          <AuditorySumm>2</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm12" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>4</AllSumm>
+          <AuditorySumm>2</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm13" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>8</AllSumm>
+          <AuditorySumm>4</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm14" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>4</AllSumm>
+          <AuditorySumm>2</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm15" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>84</AllSumm>
+          <AuditorySumm>42</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm16" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>72</AllSumm>
+          <AuditorySumm>36</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm17" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>12</AllSumm>
+          <AuditorySumm>6</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm18" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>10</AllSumm>
+          <AuditorySumm>6</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm19" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>10</AllSumm>
+          <AuditorySumm>6</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm20" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>4</AllSumm>
+          <AuditorySumm>2</AuditorySumm>
+        </DistributionStudyTimeSumm>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </DistributionStudyTimeSumm>
+  <DistributionStudyTimeCheckSumm>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DistributionStudyTimeCheckSumm" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="DistributionStudyTimeCheckSumm">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Info" type="xs:string" minOccurs="0" />
+                  <xs:element name="All" type="xs:string" minOccurs="0" />
+                  <xs:element name="Auditory" type="xs:string" minOccurs="0" />
+                  <xs:element name="Lecrute" type="xs:string" minOccurs="0" />
+                  <xs:element name="Practical" type="xs:string" minOccurs="0" />
+                  <xs:element name="Independant" type="xs:string" minOccurs="0" />
+                  <xs:element name="Validation" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <DistributionStudyTimeCheckSumm diffgr:id="DistributionStudyTimeCheckSumm4" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Info>Всего за 4 семестр</Info>
+          <All>108</All>
+          <Auditory>52</Auditory>
+          <Lecrute>20</Lecrute>
+          <Practical>32</Practical>
+          <Independant>56</Independant>
+          <Validation>0</Validation>
+        </DistributionStudyTimeCheckSumm>
+        <DistributionStudyTimeCheckSumm diffgr:id="DistributionStudyTimeCheckSumm5" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Info>Всего за 5 семестр</Info>
+          <All>117</All>
+          <Auditory>56</Auditory>
+          <Lecrute>22</Lecrute>
+          <Practical>34</Practical>
+          <Independant>52</Independant>
+          <Validation>9</Validation>
+        </DistributionStudyTimeCheckSumm>
+        <DistributionStudyTimeCheckSumm diffgr:id="DistributionStudyTimeCheckSumm6" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Info>Всего</Info>
+          <All>225</All>
+          <Auditory>108</Auditory>
+          <Lecrute>42</Lecrute>
+          <Practical>66</Practical>
+          <Independant>108</Independant>
+          <Validation>9</Validation>
+        </DistributionStudyTimeCheckSumm>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </DistributionStudyTimeCheckSumm>
+  <PartTwo>
+    <SubHeader>4.2. Содержание разделов, тем, учебных занятий</SubHeader>
+    <Themes>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Themes" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="Themes">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ChapterIndex" type="xs:string" minOccurs="0" />
+                    <xs:element name="Name" type="xs:string" minOccurs="0" />
+                    <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <Themes diffgr:id="Themes1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <ChapterIndex>1</ChapterIndex>
+            <Name>Введение</Name>
+            <Hours>2</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <ChapterIndex>1</ChapterIndex>
+            <Name>Устройства ввода и вывода  графической информации</Name>
+            <Hours>2</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <ChapterIndex>1</ChapterIndex>
+            <Name>Теоретические основы компьютерной графики</Name>
+            <Hours>4</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <ChapterIndex>1</ChapterIndex>
+            <Name>Классификация и принципы построения графических систем</Name>
+            <Hours>2</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <ChapterIndex>2</ChapterIndex>
+            <Name>Растровая (пиксельная графика)</Name>
+            <Hours>42</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <ChapterIndex>2</ChapterIndex>
+            <Name>Векторная графика</Name>
+            <Hours>36</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <ChapterIndex>2</ChapterIndex>
+            <Name>Фрактальная графика</Name>
+            <Hours>6</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <ChapterIndex>2</ChapterIndex>
+            <Name>Трехмерная (3D) графика</Name>
+            <Hours>6</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+            <ChapterIndex>3</ChapterIndex>
+            <Name>Основные алгоритмы обработки графической информации</Name>
+            <Hours>6</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+            <ChapterIndex>3</ChapterIndex>
+            <Name>Форматы создания, сжатия и хранения графической информации</Name>
+            <Hours>2</Hours>
+          </Themes>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </Themes>
+    <ListOfLectures>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures0" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures0">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures0 diffgr:id="Lectures01" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures0>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures1" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures1">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures1 diffgr:id="Lectures11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures1>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures2" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures2">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures2 diffgr:id="Lectures21" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures2>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures3" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures3">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures3 diffgr:id="Lectures31" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures3>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures4" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures4">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures4 diffgr:id="Lectures41" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures4>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures5" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures5">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures5 diffgr:id="Lectures51" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures5>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures6" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures6">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures6 diffgr:id="Lectures61" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures6>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures7" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures7">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures7 diffgr:id="Lectures71" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures7>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures8" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures8">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures8 diffgr:id="Lectures81" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures8>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures9" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures9">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures9 diffgr:id="Lectures91" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Lectures9>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+    </ListOfLectures>
+    <ListOfPracticals>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals0" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals0">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals0 diffgr:id="Practicals01" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals0>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals1" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals1">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals1 diffgr:id="Practicals11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals1>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals2" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals2">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals2 diffgr:id="Practicals21" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals2>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals3" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals3">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals3 diffgr:id="Practicals31" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals3>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals4" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals4">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals4 diffgr:id="Practicals41" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals4>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals5" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals5">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals5 diffgr:id="Practicals51" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals5>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals6" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals6">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals6 diffgr:id="Practicals61" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals6>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals7" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals7">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals7 diffgr:id="Practicals71" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals7>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals8" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals8">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals8 diffgr:id="Practicals81" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals8>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals9" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals9">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals9 diffgr:id="Practicals91" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals9>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+    </ListOfPracticals>
+  </PartTwo>
+</ChapterFour>

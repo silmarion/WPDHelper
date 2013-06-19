@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChapterSixPartFourFive xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SubHeader1>6.4	Перечень тем контрольных работ:</SubHeader1>
+  <SubHeader2>6.5	Вопросы для самоподготовки к экзамену (зачету)</SubHeader2>
+  <TestWork>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TestWork" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="TestWork">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Text" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <TestWork diffgr:id="TestWork1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Text>Понятие компьютерной графики, история развития. Области применения компьютерной графики.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Text>Технические средства компьютерной графики.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Text>Цветовые модели.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Text>Современные графические системы.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Text>Растровая (пиксельная) графика – на примере программы Photoshop.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Text>Создание изображения (коллажа), состоящего не менее чем из 4-х слоев.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Text>Векторная графика.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Text>Выполнение ручной трассировки (векторизации) цветного контурного рисунка.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Text>Фрактальная графика.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Text>Трехмерная (3D) графика.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <Text>Форматы создания, сжатия и хранения графической информации.</Text>
+        </TestWork>
+        <TestWork diffgr:id="TestWork12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+          <Text>Основные алгоритмы обработки графической информации.</Text>
+        </TestWork>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </TestWork>
+  <TrainingForExam>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TrainingForExam" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="TrainingForExam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <TrainingForExam diffgr:id="TrainingForExam1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Разрешение: виды разрешений. Отличия.</Text>
+            <Header>Аппаратное обеспечение компьютерной графики</Header>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Типы и характеристики мониторов. Растровый дисплей. Частоты регенерации, период кадра. Разрешающая способность.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>ЭЛТ и ЖК мониторы. Развертка.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>В каких единицах измеряют: разрешение экрана, разрешение принтера, разрешение изображения?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>Как задается цвет пикселя в режиме TrueColor? Сколько байтов оперативной памяти для этого нужно?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Графическая подсистема персонального компьютера.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Видеопамять, ее необходимое количество для различных режимов работы. Глубина цвета.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>Печатающие устройства. Разрешение устройств. Классификация и принцип действия принтеров.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+            <Text>Классификация и принцип действия устройств ввода. Клавиатура, кнопки, световое перо. Мышь, трекбол, джойстик. Планшеты.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+            <Text>Принтеры различных типов.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+            <Text>Сканеры различных типов.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+            <Text>Фоточувствительные матрицы.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+            <Text>Назовите основные характеристики сканера, основные характеристики сканируемого изображения.</Text>
+          </TrainingForExam>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TrainingForExam" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="TrainingForExam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <TrainingForExam diffgr:id="TrainingForExam1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Растрирование изображений при печати. Виды растра.</Text>
+            <Header>Полиграфия</Header>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Допечатная подготовка макетов.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>Цифровая печать.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>Офсетная печать.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>Зачем нужны обрезные метки и как они ставятся, печатаются и используются?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Цветоделение.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Опишите известные вам способы защиты полиграфической продукции от подделки средствами печатной машины.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>Форматы, применяемые в полиграфии.</Text>
+          </TrainingForExam>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TrainingForExam" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="TrainingForExam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <TrainingForExam diffgr:id="TrainingForExam1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Цветовое зрение. Теории цветоощущения.</Text>
+            <Header>Физические основы компьютерной графики</Header>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Спектр, цвет, видимый свет.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>Температура цвета. Баланс белого.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>Цветовой круг. Свойства и Физическая основа цветового круга.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>Представление цвета в компьютере, палитры. Индексированные и "реальные" цвета, телевизионный цвет.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Назовите известные вам цветовые модели, укажите особенности. Опишите способ передачи цветного изображения по телевидению.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Назначение и классификация цветовых моделей.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>Цвет в полиграфии. Специфика цветопередачи, преобразование цветовых моделей.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+            <Text>Аддитивная цветовая модель.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+            <Text>Субтрактивная цветовая модель.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+            <Text>Перцептуальные цветовые модели.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+            <Text>Цветовой охват. Плашечные цвета.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+            <Text>Цветовой охват. Цветовая модель Lab.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+            <Text>Гистограмма изображения: физический смысл.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+            <Text>Что такое разрешение изображения? Что такое растр?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+            <Text>Особенности восприятия различных видов шрифтов. Применение выворотки. Соотношения размеров, цветов.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+            <Text>Кривые Безье. На чем основан метод построения кривой Безье?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+            <Text>Шрифты. Типы шрифтов и их особенности.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam19" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+            <Text>Укажите формат и параметры сохранения фотографии для печати на струйном принтере. Обоснуйте свое решение, сформулируйте разницу между «разрешениями» изображения и устройств ввода-вывода на всех этапах работы.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam20" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+            <Text>Программное обеспечение компьютерной графики: основные пакеты и их назначение (растровая/векторная, анимация/статика, 2D/3D, видео, эффекты, обработка и кодирование, серверные командные редакторы).</Text>
+          </TrainingForExam>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TrainingForExam" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="TrainingForExam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <TrainingForExam diffgr:id="TrainingForExam1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Назначение, достоинства и недостатки растровой графики, их особенности.</Text>
+            <Header>Растровая графика</Header>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Как называется мельчайший элемент изображения, воспроизводимый компьютером?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>Разрешение растрового изображения.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>Как использовать инструмент Grop (Обрезка) при ретушировании?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>Какие характеристики имеет растровое изображение? Назовите причины выбора триады цветов RGB.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Как называется эффект, возникающий при масштабировании растровых изображений?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Алгоритмы сжатия растровых графических файлов и их применение в графических форматах.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>В цветовой модели RGB установлены следующие параметры: 0,255,0. Какой цвет будет соответствовать этим параметрам?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+            <Text>Как можно настроить тоновый диапазон изображения?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+            <Text>Что такое насыщенность и как ее можно настроить?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+            <Text>Приемы редактирования растровых изображений: инструменты выделения в AdobePhotoshop.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+            <Text>Инструментарий работы с заливкой в AdobePhotoshop.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+            <Text>Какую область изображения можно редактировать после создания выделения?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+            <Text>Как добавлять в выделение новые элементы и вычитать их?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+            <Text>Как можно переместить выделение по ходу его рисования?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+            <Text>Как при рисовании выделения элементом Lasso (Лассо) можно закончить рисование выделения так, чтобы гарантировать, что выделение будет иметь нужную форму?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+            <Text>Как инструмент MagicWand (Волшебная палочка) определяет, какие области изображения нужно выделить? Что такое допуск, и как он влияет на выделение?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+            <Text>Инструментарий работы с текстом в AdobePhotoshop.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam19" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+            <Text>Цветовые режимы. Инструментарий цветокоррекции в AdobePhotoshop.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam20" msdata:rowOrder="19" diffgr:hasChanges="inserted">
+            <Text>Понятие слоя. Инструментарий работы со слоями в AdobePhotoshop.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam21" msdata:rowOrder="20" diffgr:hasChanges="inserted">
+            <Text>В чем преимущества использования слоев?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam22" msdata:rowOrder="21" diffgr:hasChanges="inserted">
+            <Text>Где в пачке слоев палитры Layers (Слои) появляются вновь созданные слои и наборы слоев?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam23" msdata:rowOrder="22" diffgr:hasChanges="inserted">
+            <Text>Как сделать так, чтобы рисунок на одном слое отображался перед рисунком на другом слое?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam24" msdata:rowOrder="23" diffgr:hasChanges="inserted">
+            <Text>Как можно одновременно манипулировать несколькими слоями?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam25" msdata:rowOrder="24" diffgr:hasChanges="inserted">
+            <Text>Каково назначение композиций слоев и чем они полезны?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam26" msdata:rowOrder="25" diffgr:hasChanges="inserted">
+            <Text>В чем преимущество использования быстрой маски?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam27" msdata:rowOrder="26" diffgr:hasChanges="inserted">
+            <Text>Что происходит с быстрой маской, когда с нее снимается выделение?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam28" msdata:rowOrder="27" diffgr:hasChanges="inserted">
+            <Text>Где сохраняется маска, когда выделение сохраняется как маска?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam29" msdata:rowOrder="28" diffgr:hasChanges="inserted">
+            <Text>Каким образом можно отредактировать маску в канале после ее сохранения?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam30" msdata:rowOrder="29" diffgr:hasChanges="inserted">
+            <Text>Чем каналы отличаются от слоев?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam31" msdata:rowOrder="30" diffgr:hasChanges="inserted">
+            <Text>Маски в AdobePhotoshop: быстрая маска и векторная маска, использование масок для выделения произвольных областей изображения.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam32" msdata:rowOrder="31" diffgr:hasChanges="inserted">
+            <Text>Что такое режим смешивания, и каковы три типа цвета, которые полезны для наглядного представления эффекта режима смешивания?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam33" msdata:rowOrder="32" diffgr:hasChanges="inserted">
+            <Text>Как можно пополнить коллекцию кистей?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam34" msdata:rowOrder="33" diffgr:hasChanges="inserted">
+            <Text>Каким образом можно модифицировать отдельные сегменты пути?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam35" msdata:rowOrder="34" diffgr:hasChanges="inserted">
+            <Text>Каким образом можно выделить весть путь?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam36" msdata:rowOrder="35" diffgr:hasChanges="inserted">
+            <Text>Каким образом можно добавлять точки в путь?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam37" msdata:rowOrder="36" diffgr:hasChanges="inserted">
+            <Text>Каким образом можно удалять точки из пути?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam38" msdata:rowOrder="37" diffgr:hasChanges="inserted">
+            <Text>Какие инструменты используются для перемещения и изменения размеров путей и фигур?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam39" msdata:rowOrder="38" diffgr:hasChanges="inserted">
+            <Text>Какова цель слияния слоев?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam40" msdata:rowOrder="39" diffgr:hasChanges="inserted">
+            <Text>Какова цель сохранения выделений?</Text>
+          </TrainingForExam>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TrainingForExam" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="TrainingForExam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <TrainingForExam diffgr:id="TrainingForExam1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Назначение, достоинства и недостатки векторной графики, их особенности.</Text>
+            <Header>Векторная графика</Header>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Что является основным элементом изображения в векторной графике?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>Разрешение векторного изображения.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>Какие характеристики имеет векторное изображение?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>В цветовой модели CMYK установлены следующие параметры: 0,0,100,0. Какой цвет будет соответствовать этим параметрам?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Инструменты создания графических примитивов в CorelDRAW.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Преобразование рисунков в растровую графику в CorelDRAW.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>Редактирование кривых инструментом «форма» (узел) в CorelDRAW.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+            <Text>Импорт и экспорт рисунков в CorelDRAW.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+            <Text>Инструментарий для создания и редактирования кривых в CorelDRAW.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+            <Text>Виды заливки в редакторе CorelDRAW. Инструментарий для работы с заливкой.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+            <Text>Параметры обводки объектов в редакторе CorelDRAW. Инструментарий для работы с обводкой.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+            <Text>Операции с объектами в редакторе CorelDRAW: трансформация, управление порядком расположения, выравнивание и распределение, объединение, пересечение и исключение.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+            <Text>Виды текста в CorelDRAW. Инструментарий работы с текстом. Форматирование текста, привязка текста к произвольной кривой, создание связанных рамок текста.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+            <Text>Интерактивные эффекты CorelDRAW. Настройка их параметров.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+            <Text>Основные приемы работы со стандартными фрагментами (символами) в редакторе CorelDRAW.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+            <Text>Импорт растровых изображений в CorelDRAW. Настройка цвета растровых изображений.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+            <Text>Растрирование и трассировка в вCorelDRAW.</Text>
+          </TrainingForExam>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TrainingForExam" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="TrainingForExam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <TrainingForExam diffgr:id="TrainingForExam1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Что понимают под фрактальной графикой?</Text>
+            <Header>Фрактальная графика</Header>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Что лежит в основе фрактальных композиций?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>К какому виду фракталов относится триадная кривая Кох?</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>К какому виду фракталов относится множество Мандельброта?</Text>
+          </TrainingForExam>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TrainingForExam" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="TrainingForExam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <TrainingForExam diffgr:id="TrainingForExam1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Основные элементы и понятия трёхмерной графики, их назначение, применение.</Text>
+            <Header>Трехмерная (3D) графика</Header>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Основные методы моделирование трёхмерных изображений. Достоинства и недостатки.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>Модели представления цветов в 3DStudioMax.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>Работа с объектами в 3DStudioMax.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>Методы создания объектов в 3DStudioMax.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Модификация объектов в в 3DStudioMax.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Работа с материалами и текстурами в 3DStudioMax.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>Рендеринг в в 3DStudioMax.</Text>
+          </TrainingForExam>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TrainingForExam" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="TrainingForExam">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <TrainingForExam diffgr:id="TrainingForExam1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Форматы графических файлов, применяемые в Интернет.</Text>
+            <Header>Форматы графических файлов</Header>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Формат Adobe PDF. Возможности, назначение, области применения.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>Форматы файлов растровой графики: деструктивное, недеструктивное сжатие. Возможности форматов. Поддерживаемые цветовые модели.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>Форматы файлов векторной графики: возможности, совместимость, основное предназначение. Форматы верстки: офисные и специализированные форматы, отличия и предназначение.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>Графические форматы BMP и WMF: области применения, преимущества и недостатки, особенности.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Графические форматы GIF и PNG: области применения, преимущества и недостатки, особенности.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Графические форматы PSD и CDR: области применения, преимущества и недостатки, особенности.</Text>
+          </TrainingForExam>
+          <TrainingForExam diffgr:id="TrainingForExam8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>Графические форматы JPEG и TIFF: области применения, преимущества и недостатки, особенности.</Text>
+          </TrainingForExam>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+  </TrainingForExam>
+</ChapterSixPartFourFive>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChapterThree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>3.	Компетенции обучающегося, формируемые в результате освоения дисциплины</Header>
+  <Paragraph1>Выпускник по направлению подготовки Прикладная информатика с квалификацией (степенью) бакалавр должен обладать следующими компетенциями:</Paragraph1>
+  <Competence>
+    <item>
+      <key>
+        <string>ПК-3</string>
+      </key>
+      <value>
+        <string>способен использовать основные законы естественнонаучных дисциплин в профессиональной деятельности и эксплуатировать современное электронное оборудование и информационно-коммуникационные технологии в соответствии с целями образовательной программы бакалавра</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ПК-4</string>
+      </key>
+      <value>
+        <string>способен ставить и решать прикладные задачи с использованием современных информационно-коммуникационных технологий</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <string>ПК-9</string>
+      </key>
+      <value>
+        <string>способен моделировать и проектировать структуры данных и знаний, прикладные и информационные процессы</string>
+      </value>
+    </item>
+  </Competence>
+  <Paragraph2 />
+  <Know>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Know" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Know">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <Know diffgr:id="Know1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>области применения компьютерной графики;</Column1>
+        </Know>
+        <Know diffgr:id="Know2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>основные характеристики, устройство и принципы функционирования технических средств компьютерной графики;</Column1>
+        </Know>
+        <Know diffgr:id="Know3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Column1>базовые алгоритмы представления и визуализации графических объектов, обработки и анализа графических изображений;</Column1>
+        </Know>
+        <Know diffgr:id="Know4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Column1>основные теоретические положения фрактальной геометрии и практическое применение фрактальной графики;</Column1>
+        </Know>
+        <Know diffgr:id="Know5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Column1>способы сжатия графики;</Column1>
+        </Know>
+        <Know diffgr:id="Know6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Column1>принципы построения и основные характеристики растрового изображения;</Column1>
+        </Know>
+        <Know diffgr:id="Know7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Column1>принципы построения векторного изображения;</Column1>
+        </Know>
+        <Know diffgr:id="Know8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Column1>основные модели представления цвета;</Column1>
+        </Know>
+        <Know diffgr:id="Know9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Column1>достоинства и недостатки растровой и векторной графики, области их применения;</Column1>
+        </Know>
+        <Know diffgr:id="Know10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Column1>основные принципы организации базовых графических систем и программ;</Column1>
+        </Know>
+        <Know diffgr:id="Know11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <Column1>компоненты графических пакетов программ, назначение и содержание окон меню, форматы и процедуры обработки графических изображений;</Column1>
+        </Know>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </Know>
+  <Reduced>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Reduced" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Reduced">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <Reduced diffgr:id="Reduced1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>корректно выбирать графический формат для хранения и передачи графических изображений;</Column1>
+        </Reduced>
+        <Reduced diffgr:id="Reduced2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>применять математические методы и вычислительные алгоритмы для решения практических задач;</Column1>
+        </Reduced>
+        <Reduced diffgr:id="Reduced3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Column1>выбирать графические пакеты для решения различных практических задач;</Column1>
+        </Reduced>
+        <Reduced diffgr:id="Reduced4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Column1>накапливать опыт работы в области компьютерной графики;</Column1>
+        </Reduced>
+        <Reduced diffgr:id="Reduced5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Column1>применять графические пакеты для автоматизации процесса проектирования, обработки графических файлов различных типов;</Column1>
+        </Reduced>
+        <Reduced diffgr:id="Reduced6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Column1>использовать встроенные справочные системы пакетов компьютерной графики.</Column1>
+        </Reduced>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </Reduced>
+  <Own>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Own" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Own">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <Own diffgr:id="Own1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>современными графическими редакторами для создания и обработки изображений в растровом и векторном формате;</Column1>
+        </Own>
+        <Own diffgr:id="Own2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>средствами компьютерной графики в профессиональной деятельности;</Column1>
+        </Own>
+        <Own diffgr:id="Own3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Column1>способами импорта и экспорта графических изображений в различные форматы файлов;</Column1>
+        </Own>
+        <Own diffgr:id="Own4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Column1>основными методами форматирования и преобразовании двумерных и трехмерных изображений;</Column1>
+        </Own>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </Own>
+</ChapterThree>

@@ -1,0 +1,19 @@
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\bin\Debug\XLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\bin\Debug\XLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\bin\Debug\DataLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\bin\Debug\HelperLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\bin\Debug\DataLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\bin\Debug\HelperLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\obj\Debug\XLibrary.csprojResolveAssemblyReference.cache
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\obj\Debug\XLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\obj\Debug\XLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\WPDHelper\bin\Debug\XLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\WPDHelper\bin\Debug\XLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\Library\obj\Debug\XLibrary.csprojResolveAssemblyReference.cache
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\Library\obj\Debug\XLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\Library\obj\Debug\XLibrary.pdb
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\WPDHelper\bin\Debug\XLibrary.dll
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\WPDHelper\bin\Debug\XLibrary.pdb
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\Library\obj\Debug\XLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\Library\obj\Debug\XLibrary.dll
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\Library\obj\Debug\XLibrary.pdb

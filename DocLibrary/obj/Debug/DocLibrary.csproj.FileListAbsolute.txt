@@ -1,0 +1,10 @@
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\WPDHelper\bin\Debug\DocLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\WPDHelper\bin\Debug\DocLibrary.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\DocLibrary\obj\Debug\DocLibrary.csprojResolveAssemblyReference.cache
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\DocLibrary\obj\Debug\DocLibrary.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\WPDH\DocLibrary\obj\Debug\DocLibrary.pdb
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\WPDHelper\bin\Debug\DocLibrary.dll
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\WPDHelper\bin\Debug\DocLibrary.pdb
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\DocLibrary\obj\Debug\DocLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\DocLibrary\obj\Debug\DocLibrary.dll
+C:\Users\Arado_000\Documents\Visual Studio 2012\Projects\WPDH 3.5\DocLibrary\obj\Debug\DocLibrary.pdb

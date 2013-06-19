@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChapterOne xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DisciplineMission>Обучение студентов теоретическим основам интерактивной компьютерной графики и практическому освоению методов и средств синтеза, анализа и обработки графических изображений с помощью вычислительной техники. А также выработка базовых навыков работы в графических средах и знакомство с различными современными технологиями, языками и библиотеками для работы с компьютерной графикой.</DisciplineMission>
+  <ProfessionalActivity>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ProfessionalOccupation" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="ProfessionalOccupation">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <ProfessionalOccupation diffgr:id="ProfessionalOccupation1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>проведение обследования прикладной области в соответствии с профилем подготовки;</Column1>
+        </ProfessionalOccupation>
+        <ProfessionalOccupation diffgr:id="ProfessionalOccupation2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>формирование требований к информатизации и автоматизации прикладных процессов;</Column1>
+        </ProfessionalOccupation>
+        <ProfessionalOccupation diffgr:id="ProfessionalOccupation3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Column1>технико-экономическое обоснование проектных решений, составление технических заданий на автоматизацию и информатизацию решения прикладных задач, техническое проектирование ИС в соответствии со спецификой профиля подготовки;</Column1>
+        </ProfessionalOccupation>
+        <ProfessionalOccupation diffgr:id="ProfessionalOccupation4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Column1>программирование, тестирование и документирование приложений;</Column1>
+        </ProfessionalOccupation>
+        <ProfessionalOccupation diffgr:id="ProfessionalOccupation5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Column1>аттестация и верификация ИС.</Column1>
+        </ProfessionalOccupation>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </ProfessionalActivity>
+  <TechnologicalActivity>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TechnologicalActivities" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="TechnologicalActivities">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <TechnologicalActivities diffgr:id="TechnologicalActivities1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>автоматизированное решение прикладных задач операционного и аналитического характера;</Column1>
+        </TechnologicalActivities>
+        <TechnologicalActivities diffgr:id="TechnologicalActivities2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>информационное обеспечение прикладных процессов;</Column1>
+        </TechnologicalActivities>
+        <TechnologicalActivities diffgr:id="TechnologicalActivities3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Column1>внедрение, адаптация, настройка и интеграция проектных решений по созданию ИС;</Column1>
+        </TechnologicalActivities>
+        <TechnologicalActivities diffgr:id="TechnologicalActivities4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Column1>сопровождение и эксплуатации ИС.</Column1>
+        </TechnologicalActivities>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </TechnologicalActivity>
+  <AdministrativeActivity>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="AdministrativeActivity" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="AdministrativeActivity">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <AdministrativeActivity diffgr:id="AdministrativeActivity1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>участие в организации и управлении информационными процессами, ресурсами, системами, сервисами;</Column1>
+        </AdministrativeActivity>
+        <AdministrativeActivity diffgr:id="AdministrativeActivity2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>использование функциональных и технологических стандартов;</Column1>
+        </AdministrativeActivity>
+        <AdministrativeActivity diffgr:id="AdministrativeActivity3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Column1>обучение и консультирование пользователей в процессе эксплуатации ИС;</Column1>
+        </AdministrativeActivity>
+        <AdministrativeActivity diffgr:id="AdministrativeActivity4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Column1>участие в переговорах с заказчиком;</Column1>
+        </AdministrativeActivity>
+        <AdministrativeActivity diffgr:id="AdministrativeActivity5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Column1>презентация проектов.</Column1>
+        </AdministrativeActivity>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </AdministrativeActivity>
+  <AnalyticalActivity>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="AnalyticalActivity" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="AnalyticalActivity">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <AnalyticalActivity diffgr:id="AnalyticalActivity1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>анализ прикладных процессов, разработка вариантов автоматизированного решения прикладных задач;</Column1>
+        </AnalyticalActivity>
+        <AnalyticalActivity diffgr:id="AnalyticalActivity2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>анализ и выбор методов и средств автоматизации и информатизации прикладных процессов на основе современных информационно-коммуникационных технологий;</Column1>
+        </AnalyticalActivity>
+        <AnalyticalActivity diffgr:id="AnalyticalActivity3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Column1>оценка затрат и надежности проектных решений.</Column1>
+        </AnalyticalActivity>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </AnalyticalActivity>
+  <ResearchActivity>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ResearchActivities" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="ResearchActivities">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <ResearchActivities diffgr:id="ResearchActivities1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>применение системного подхода к автоматизации и информатизации решения прикладных задач, к построению информационных систем на основе современных информационно-коммуникационных технологий;</Column1>
+        </ResearchActivities>
+        <ResearchActivities diffgr:id="ResearchActivities2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>подготовка обзоров, аннотаций, составление рефератов, научных докладов, публикаций, и библиографии по научно-исследовательской работе в области прикладной информатики.</Column1>
+        </ResearchActivities>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </ResearchActivity>
+  <GiveTheBasics>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="GiveTheBasics" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="GiveTheBasics">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <GiveTheBasics diffgr:id="GiveTheBasics1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Column1>работы в средах современных операционных систем и наиболее распространенных программах компьютерной графики;</Column1>
+        </GiveTheBasics>
+        <GiveTheBasics diffgr:id="GiveTheBasics2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Column1>сопряжения аппаратных и программных средств в составе информационных и автоматизированных систем;</Column1>
+        </GiveTheBasics>
+        <GiveTheBasics diffgr:id="GiveTheBasics3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Column1>инсталляции программного обеспечения для информационных и автоматизированных систем;</Column1>
+        </GiveTheBasics>
+        <GiveTheBasics diffgr:id="GiveTheBasics4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Column1>использования устройств ввода и вывода графической информации;</Column1>
+        </GiveTheBasics>
+        <GiveTheBasics diffgr:id="GiveTheBasics5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Column1>теории компьютерной графики;</Column1>
+        </GiveTheBasics>
+        <GiveTheBasics diffgr:id="GiveTheBasics6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Column1>растровой, векторной и фрактальной графики;</Column1>
+        </GiveTheBasics>
+        <GiveTheBasics diffgr:id="GiveTheBasics7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Column1>основных алгоритмов обработки графической информации;</Column1>
+        </GiveTheBasics>
+        <GiveTheBasics diffgr:id="GiveTheBasics8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Column1>выбора нужных форматов создания, сжатия и хранения графической информации.</Column1>
+        </GiveTheBasics>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </GiveTheBasics>
+</ChapterOne>

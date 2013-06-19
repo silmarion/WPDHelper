@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChapterFour xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>4.	Структура и содержание дисциплины</Header>
+  <SubHeader1>4.1.	Распределение учебного времени по семестрам, разделам, темам и видам учебных занятий</SubHeader1>
+  <Info>Общая трудоемкость дисциплины составляет 6 з.e., 216 час.</Info>
+  <AuditoriumHours>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="AuditoriumHours" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="AuditoriumHours">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Вид_x0020_учебной_x0020_работы" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_4_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_5_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <AuditoriumHours diffgr:id="AuditoriumHours1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Аудиторные занятия (всего)</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>56</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>56</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+        <AuditoriumHours diffgr:id="AuditoriumHours2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Лекции</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>16</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>16</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+        <AuditoriumHours diffgr:id="AuditoriumHours3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Интерактивные и активные формы работы на лекциях</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>8</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>8</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+        <AuditoriumHours diffgr:id="AuditoriumHours4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Практические занятия</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>20</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>20</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+        <AuditoriumHours diffgr:id="AuditoriumHours5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Интерактивные и активные формы работы на практических занятиях</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>12</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>12</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </AuditoriumHours>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </AuditoriumHours>
+  <IndependentHours>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="IndependentHours" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="IndependentHours">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Вид_x0020_учебной_x0020_работы" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_4_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_5_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <IndependentHours diffgr:id="IndependentHours1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Самостоятельная работа (всего)</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>52</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>43</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </IndependentHours>
+        <IndependentHours diffgr:id="IndependentHours2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Самостоятельная работа (всего)</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>52</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>43</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </IndependentHours>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </IndependentHours>
+  <Validation>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Validation" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Validation">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Вид_x0020_учебной_x0020_работы" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_4_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр_x0020_5_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <Validation diffgr:id="Validation1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Вид промежуточной аттестации</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_4_x0020__x0028_час._x0029_>Зачет</Семестр_x0020_4_x0020__x0028_час._x0029_>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>Экзамен</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </Validation>
+        <Validation diffgr:id="Validation2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Вид_x0020_учебной_x0020_работы>Подготовка к экзамену</Вид_x0020_учебной_x0020_работы>
+          <Семестр_x0020_5_x0020__x0028_час._x0029_>9</Семестр_x0020_5_x0020__x0028_час._x0029_>
+        </Validation>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </Validation>
+  <Chapters>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Chapters" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Chapters">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Наименование" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <Chapters diffgr:id="Chapters1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Наименование>Раздел 1</Наименование>
+        </Chapters>
+        <Chapters diffgr:id="Chapters2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Наименование>Раздел 2</Наименование>
+        </Chapters>
+        <Chapters diffgr:id="Chapters3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Наименование>Раздел 3</Наименование>
+        </Chapters>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </Chapters>
+  <ChaptersSumm>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ChaptersSumm" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="ChaptersSumm">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ChapterIndex" type="xs:string" minOccurs="0" />
+                  <xs:element name="ChapterName" type="xs:string" minOccurs="0" />
+                  <xs:element name="All" type="xs:string" minOccurs="0" />
+                  <xs:element name="Auditory" type="xs:string" minOccurs="0" />
+                  <xs:element name="Lecrute" type="xs:string" minOccurs="0" />
+                  <xs:element name="Practical" type="xs:string" minOccurs="0" />
+                  <xs:element name="Independant" type="xs:string" minOccurs="0" />
+                  <xs:element name="Validation" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <ChaptersSumm diffgr:id="ChaptersSumm4" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <ChapterIndex>1</ChapterIndex>
+          <ChapterName>Раздел 1</ChapterName>
+          <All>24</All>
+          <Auditory>10</Auditory>
+          <Lecrute>8</Lecrute>
+          <Practical>2</Practical>
+          <Independant>14</Independant>
+        </ChaptersSumm>
+        <ChaptersSumm diffgr:id="ChaptersSumm5" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <ChapterIndex>2</ChapterIndex>
+          <ChapterName>Раздел 2</ChapterName>
+          <All>178</All>
+          <Auditory>90</Auditory>
+          <Lecrute>28</Lecrute>
+          <Practical>62</Practical>
+          <Independant>88</Independant>
+        </ChaptersSumm>
+        <ChaptersSumm diffgr:id="ChaptersSumm6" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <ChapterIndex>3</ChapterIndex>
+          <ChapterName>Раздел 3</ChapterName>
+          <All>14</All>
+          <Auditory>8</Auditory>
+          <Lecrute>6</Lecrute>
+          <Practical>2</Practical>
+          <Independant>6</Independant>
+        </ChaptersSumm>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </ChaptersSumm>
+  <DistributionStudyTime>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DistributionStudyTime" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="DistributionStudyTime">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Наименование_x0020_темы" type="xs:string" minOccurs="0" />
+                  <xs:element name="Номер_x0020_раздела" type="xs:string" minOccurs="0" />
+                  <xs:element name="Компетенции" type="xs:string" minOccurs="0" />
+                  <xs:element name="Семестр" type="xs:string" minOccurs="0" />
+                  <xs:element name="Неделя_x0020_семестра" type="xs:string" minOccurs="0" />
+                  <xs:element name="Лекции_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Практические_x0020_занятия_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                  <xs:element name="Самостоятельная_x0020_работа_x0020__x0028_час._x0029_" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Введение</Наименование_x0020_темы>
+          <Номер_x0020_раздела>1</Номер_x0020_раздела>
+          <Компетенции>ПК-3</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>2</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>6</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Устройства ввода и вывода  графической информации</Наименование_x0020_темы>
+          <Номер_x0020_раздела>1</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>2</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>2</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Теоретические основы компьютерной графики</Наименование_x0020_темы>
+          <Номер_x0020_раздела>1</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>3</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>2</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>4</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Классификация и принципы построения графических систем</Наименование_x0020_темы>
+          <Номер_x0020_раздела>1</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>3</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>2</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Растровая (пиксельная графика)</Наименование_x0020_темы>
+          <Номер_x0020_раздела>2</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>4</Семестр>
+          <Неделя_x0020_семестра>4-13</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>12</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>30</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>42</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Векторная графика</Наименование_x0020_темы>
+          <Номер_x0020_раздела>2</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>2-8</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>12</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>24</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>36</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Фрактальная графика</Наименование_x0020_темы>
+          <Номер_x0020_раздела>2</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>9-10</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>4</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>6</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Трехмерная (3D) графика</Наименование_x0020_темы>
+          <Номер_x0020_раздела>2</Номер_x0020_раздела>
+          <Компетенции>ПК-3, ПК-4</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>11-12</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>4</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>4</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Основные алгоритмы обработки графической информации</Наименование_x0020_темы>
+          <Номер_x0020_раздела>3</Номер_x0020_раздела>
+          <Компетенции>ПК-9</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>12-13</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>4</Лекции_x0020__x0028_час._x0029_>
+          <Практические_x0020_занятия_x0020__x0028_час._x0029_>2</Практические_x0020_занятия_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>4</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+        <DistributionStudyTime diffgr:id="DistributionStudyTime10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Наименование_x0020_темы>Форматы создания, сжатия и хранения графической информации</Наименование_x0020_темы>
+          <Номер_x0020_раздела>3</Номер_x0020_раздела>
+          <Компетенции>ПК-9</Компетенции>
+          <Семестр>5</Семестр>
+          <Неделя_x0020_семестра>13-14</Неделя_x0020_семестра>
+          <Лекции_x0020__x0028_час._x0029_>2</Лекции_x0020__x0028_час._x0029_>
+          <Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>2</Самостоятельная_x0020_работа_x0020__x0028_час._x0029_>
+        </DistributionStudyTime>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </DistributionStudyTime>
+  <DistributionStudyTimeSumm>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DistributionStudyTimeSumm" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="DistributionStudyTimeSumm">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Semester" type="xs:string" minOccurs="0" />
+                  <xs:element name="AllSumm" type="xs:string" minOccurs="0" />
+                  <xs:element name="AuditorySumm" type="xs:string" minOccurs="0" />
+                  <xs:element name="ChapterIndex" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>8</AllSumm>
+          <AuditorySumm>2</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm12" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>4</AllSumm>
+          <AuditorySumm>2</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm13" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>8</AllSumm>
+          <AuditorySumm>4</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm14" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>4</AllSumm>
+          <AuditorySumm>2</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm15" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Semester>4</Semester>
+          <AllSumm>84</AllSumm>
+          <AuditorySumm>42</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm16" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>72</AllSumm>
+          <AuditorySumm>36</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm17" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>12</AllSumm>
+          <AuditorySumm>6</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm18" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>10</AllSumm>
+          <AuditorySumm>6</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm19" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>10</AllSumm>
+          <AuditorySumm>6</AuditorySumm>
+        </DistributionStudyTimeSumm>
+        <DistributionStudyTimeSumm diffgr:id="DistributionStudyTimeSumm20" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Semester>5</Semester>
+          <AllSumm>4</AllSumm>
+          <AuditorySumm>2</AuditorySumm>
+        </DistributionStudyTimeSumm>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </DistributionStudyTimeSumm>
+  <DistributionStudyTimeCheckSumm>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="DistributionStudyTimeCheckSumm" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="DistributionStudyTimeCheckSumm">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Info" type="xs:string" minOccurs="0" />
+                  <xs:element name="All" type="xs:string" minOccurs="0" />
+                  <xs:element name="Auditory" type="xs:string" minOccurs="0" />
+                  <xs:element name="Lecrute" type="xs:string" minOccurs="0" />
+                  <xs:element name="Practical" type="xs:string" minOccurs="0" />
+                  <xs:element name="Independant" type="xs:string" minOccurs="0" />
+                  <xs:element name="Validation" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <DistributionStudyTimeCheckSumm diffgr:id="DistributionStudyTimeCheckSumm4" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Info>Всего за 4 семестр</Info>
+          <All>108</All>
+          <Auditory>52</Auditory>
+          <Lecrute>20</Lecrute>
+          <Practical>32</Practical>
+          <Independant>56</Independant>
+          <Validation>0</Validation>
+        </DistributionStudyTimeCheckSumm>
+        <DistributionStudyTimeCheckSumm diffgr:id="DistributionStudyTimeCheckSumm5" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Info>Всего за 5 семестр</Info>
+          <All>117</All>
+          <Auditory>56</Auditory>
+          <Lecrute>22</Lecrute>
+          <Practical>34</Practical>
+          <Independant>52</Independant>
+          <Validation>9</Validation>
+        </DistributionStudyTimeCheckSumm>
+        <DistributionStudyTimeCheckSumm diffgr:id="DistributionStudyTimeCheckSumm6" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Info>Всего</Info>
+          <All>225</All>
+          <Auditory>108</Auditory>
+          <Lecrute>42</Lecrute>
+          <Practical>66</Practical>
+          <Independant>108</Independant>
+          <Validation>9</Validation>
+        </DistributionStudyTimeCheckSumm>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </DistributionStudyTimeCheckSumm>
+  <PartTwo>
+    <SubHeader>4.2. Содержание разделов, тем, учебных занятий</SubHeader>
+    <Themes>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Themes" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="Themes">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ChapterIndex" type="xs:string" minOccurs="0" />
+                    <xs:element name="Name" type="xs:string" minOccurs="0" />
+                    <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <Themes diffgr:id="Themes1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <ChapterIndex>1</ChapterIndex>
+            <Name>Введение</Name>
+            <Hours>2</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <ChapterIndex>1</ChapterIndex>
+            <Name>Устройства ввода и вывода  графической информации</Name>
+            <Hours>2</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <ChapterIndex>1</ChapterIndex>
+            <Name>Теоретические основы компьютерной графики</Name>
+            <Hours>4</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <ChapterIndex>1</ChapterIndex>
+            <Name>Классификация и принципы построения графических систем</Name>
+            <Hours>2</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <ChapterIndex>2</ChapterIndex>
+            <Name>Растровая (пиксельная графика)</Name>
+            <Hours>42</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <ChapterIndex>2</ChapterIndex>
+            <Name>Векторная графика</Name>
+            <Hours>36</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <ChapterIndex>2</ChapterIndex>
+            <Name>Фрактальная графика</Name>
+            <Hours>6</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <ChapterIndex>2</ChapterIndex>
+            <Name>Трехмерная (3D) графика</Name>
+            <Hours>6</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+            <ChapterIndex>3</ChapterIndex>
+            <Name>Основные алгоритмы обработки графической информации</Name>
+            <Hours>6</Hours>
+          </Themes>
+          <Themes diffgr:id="Themes10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+            <ChapterIndex>3</ChapterIndex>
+            <Name>Форматы создания, сжатия и хранения графической информации</Name>
+            <Hours>2</Hours>
+          </Themes>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </Themes>
+    <ListOfLectures>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures0" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures0">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures0 diffgr:id="Lectures01" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Понятие компьютерной графики, история развития. Области применения компьютерной графики.
+Растровая и векторная графика. Пиксель. История средств визуализации. Обработка и распознавание изображений. Современный уровень компьютерной графики: САПР, ГИС, 2D и 3D графика, системы виртуальной реальности, научная графика.
+</Text>
+              <Hours>2</Hours>
+            </Lectures0>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures1" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures1">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures1 diffgr:id="Lectures11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Технические средства компьютерной графики.
+Устройства ввода. Описание, принципы работы, основные технические характеристики. Клавиатура, мышь, трекбол, джойстик, световое перо, сенсорная панель. Дигитайзер, сканер.
+Устройства вывода. Дисплеи. Описание, принципы работы, основные технические характеристики. Классификация: растровые и векторные дисплеи. Основные типы дисплеев: на основе ЭЛТ, жидкокристаллические, плазменные. Прогрессивная и чересстрочная развертка.
+Печатающие устройства и графопостроители. Принтеры. Классификация и принципы работы принтеров: матричные, струйные, лазерные, термопринтеры. Плоттеры. Назначение и классификация.
+Видеоадаптеры. Видеостандарты EGA, VGA, sVGA – особенности устройств. Современные видеоадаптеры (графические процессоры с 3D-ускорителем, шина AGH). Видеопамять.
+</Text>
+              <Hours>2</Hours>
+            </Lectures1>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures2" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures2">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures2 diffgr:id="Lectures21" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Цветовые модели (RGB, CMYK, Lab). Цветовой охват. Черно-белые, полутоновые изображения. Переход между типами изображений. Соответствие цветов и управление цветом.</Text>
+              <Hours>2</Hours>
+            </Lectures2>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures3" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures3">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures3 diffgr:id="Lectures31" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Современные графические системы. Классификация и обзор, функциональные возможности, тенденции развития. Графические инструментальные средства. Интерактивная машинная графика. 
+
+</Text>
+              <Hours>2</Hours>
+            </Lectures3>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures4" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures4">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures4 diffgr:id="Lectures41" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Name>Открытие и импорт изображений. </Name>
+              <Text>Основные сведения о изображениях. Размер изображения и разрешение. Импорт изображения из цифровых камер и сканеров. Создание, открытие и импорт изображений.</Text>
+              <Hours>2</Hours>
+            </Lectures4>
+            <Lectures4 diffgr:id="Lectures42" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+              <Name>Видео и анимация. </Name>
+              <Text>Создание изображений для видео. Импорт видеофайлов и последовательностей изображений (Photoshop Extended). Интерпретация кадров в видеослоях (Photoshop Extended).Создание кадров анимации. Сохранение и экспорт видео и анимации.</Text>
+              <Hours>2</Hours>
+            </Lectures4>
+            <Lectures4 diffgr:id="Lectures43" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+              <Name>3D.</Name>
+              <Text>Рабочая среда 3D (Photoshop Extended). 3D-рисование текстуры (Photoshop Extended). Создание, комбинирование и преобразование в 3D (Photoshop Extended). Рендеринг и сохранение 3D-объектов (Photoshop Extended).</Text>
+              <Hours>2</Hours>
+            </Lectures4>
+            <Lectures4 diffgr:id="Lectures44" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+              <Name>Технические изображения.</Name>
+              <Text>Измерения (Photoshop Extended). Подсчет объектов на изображении (Photoshop Extended).</Text>
+              <Hours>2</Hours>
+            </Lectures4>
+            <Lectures4 diffgr:id="Lectures45" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+              <Name>Автоматизация задач.</Name>
+              <Text>Автоматизация при помощи операций. Создание операций. Обработка пакета файлов. Сценарии. Создание изображений, управляемых данными.</Text>
+              <Hours>2</Hours>
+            </Lectures4>
+            <Lectures4 diffgr:id="Lectures46" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+              <Name>Дополнительные внешние модули. </Name>
+              <Text>Раскладка изображений и контрольные листы. Создание фотогалерей для Web. Извлечение объекта с заднего плана. Создание узора с помощью фильтра Pattern Maker (Конструктор узоров). Импорт изображения при помощи интерфейса TWAIN.</Text>
+              <Hours>2</Hours>
+            </Lectures4>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures5" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures5">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures5 diffgr:id="Lectures51" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Name>Динамическая графика в Adobe Illustrator. </Name>
+              <Text>Технология работы. Динамический текст. Динамические изображения. Динамические графики. Динамическая видимость.</Text>
+              <Hours>2</Hours>
+            </Lectures5>
+            <Lectures5 diffgr:id="Lectures52" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+              <Name>Работа с макросам в Adobe Illustrator. </Name>
+              <Text>Создание макросов. Выполнение макросов. Редактирование макросов. Выполнение макросов в пакетном режиме. Примеры создания и использования макросов.</Text>
+              <Hours>2</Hours>
+            </Lectures5>
+            <Lectures5 diffgr:id="Lectures53" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+              <Name>Трехмерное моделирование в Adobe Illustrator. </Name>
+              <Text>Теоретические аспекты применения 3D-эффектов. Карта-схема. Объемный текст. Объемные графики. Объемные символы. Кнопка для Web-страницы.</Text>
+              <Hours>2</Hours>
+            </Lectures5>
+            <Lectures5 diffgr:id="Lectures54" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+              <Name>Web-графика. </Name>
+              <Text>Методы создания web-графики. Фрагменты и карты ссылок. Создание анимаций. Оптимизация изображений. Параметры оптимизации web-графики.</Text>
+              <Hours>2</Hours>
+            </Lectures5>
+            <Lectures5 diffgr:id="Lectures55" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+              <Name>Автоматизация задач. </Name>
+              <Text>Операции. Сценарии. Управляемая данными графика.</Text>
+              <Hours>2</Hours>
+            </Lectures5>
+            <Lectures5 diffgr:id="Lectures56" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+              <Name>Диаграммы.</Name>
+              <Text>Создание диаграмм. Форматирование диаграмм. Добавление к диаграмме рисунков и символов.</Text>
+              <Hours>2</Hours>
+            </Lectures5>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures6" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures6">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures6 diffgr:id="Lectures61" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Определение фракталов. Самоподобие. Топология и фрактальная размерность. Подобие и геометрические преобразования фракталов. Стохастические фракталы. Фрактальные поверхности.</Text>
+              <Hours>2</Hours>
+            </Lectures6>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures7" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures7">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures7 diffgr:id="Lectures71" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Специфика трехмерной графики. Рабочее пространство. Системы координат. Моделирование объектов. Задачи и требования геометрического и компьютерного моделирования. Корректное моделирование материалов. Текстурирование материалов. Дополнительные свойства материалов. Визуализация. Освещение.</Text>
+              <Hours>2</Hours>
+            </Lectures7>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures8" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures8">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures8 diffgr:id="Lectures81" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Математические основы двухмерной машинной графики. Двухмерные преобразования. Однородные координаты. Задачи, связанные с отрезками прямых. Разрезание многоугольников.</Text>
+              <Hours>2</Hours>
+            </Lectures8>
+            <Lectures8 diffgr:id="Lectures82" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+              <Text>Математические аспекты трехмерной машинной графики. Однородные координаты. Трехмерные преобразования. Синтез трехмерных изображений в машинной графике.</Text>
+              <Hours>2</Hours>
+            </Lectures8>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Lectures9" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Lectures9">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Lectures9 diffgr:id="Lectures91" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Классификация форматов графических файлов.
+Растровые и векторные форматы файлов. Структура файлов растровых форматов. Простейший алгоритм сжатия (RLE). 
+Форматы графических файлов, используемых в сети Интернет (GIF, JPEG, PNG). Основы эффективных методов сжатия (LZW, сжатие с потерями).
+</Text>
+              <Hours>2</Hours>
+            </Lectures9>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+    </ListOfLectures>
+    <ListOfPracticals>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals0" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals0">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals0 diffgr:id="Practicals01" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours>0</Hours>
+            </Practicals0>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals1" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals1">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals1 diffgr:id="Practicals11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals1>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals2" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals2">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals2 diffgr:id="Practicals21" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Name>Основы работы с цветом. </Name>
+              <Text>О цвете. Преобразования между цветовыми режимами. Выбор цветов.</Text>
+              <Hours>2</Hours>
+            </Practicals2>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals3" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals3">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals3 diffgr:id="Practicals31" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals3>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals4" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals4">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals4 diffgr:id="Practicals41" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Name>Слои изображения. </Name>
+              <Text>Палитра. Изменение порядка следования. Создание и удаление. Связанные слои и наборы. Выравнивание и распределение связанных слоев. Слияние и удаление слоев. Задание стиля слоя.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals42" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+              <Name>Выделение областей. </Name>
+              <Text>Выделение области правильной геометрической формы. Выделение области произвольной формы. Логические операции с областями. Волшебная палочка. Дополнительные режимы выделения. Перемещение и копирование выделенных областей.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals43" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+              <Name>Трансформация выделенной области.</Name>
+              <Text>Масштабирование и вращение. Перекос и искажение области. Перспективное трансформирование. Сложное искривление. Свободная трансформация.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals44" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+              <Name>Создание цвета. </Name>
+              <Text>Заливка областей. Выбор и создание цвета. Палитры Color и Swatches. Заливка областей. Режимы смешивания цветов. Инструмент Paint Bucket. Градиентная заливка. Обводка области.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals45" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+              <Name>Инструменты для рисования и удаления. </Name>
+              <Text>Инструменты для рисования. Палитра кистей. Рисование мазками. Инструмент для замены цвета. Удаление фрагментов изображения. Автоматическое удаление каймы. Восстанавливающие кисти.</Text>
+              <Hours>4</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals46" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+              <Name />
+              <Text>Гистограмма изображения. Растягивание тонового диапазона. Сужение тонового диапазона. Нахождение белой и черной точек. Коррекция тоновой кривой. Гистограмма изображения. Растягивание тонового диапазона. Сужение тонового диапазона. Нахождение белой и черной точек. Коррекция тоновой кривой.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals47" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+              <Name>Цветовая коррекция. </Name>
+              <Text>Балансировка цвета по точкам. Окно Color Balance. Настройка оттенка и насыщенности. Выборочный цвет. Смешивание каналов. Замена цветов. Специальные цветовые настройки и эффекты. Вариации коррекции. Коррекция с помощью слоев.</Text>
+              <Hours>4</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals48" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+              <Name>Маски и альфа-каналы. </Name>
+              <Text>Создание альфа-каналов. Режим быстрого маскирования. Маски для цветов. Маска слоя. Маскированные группы слоев.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals49" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+              <Name>Векторные контуры. </Name>
+              <Text>Рисование контуров и фигур. Рисование пером. Рисование специальными инструментами. Выделение и преобразование контуров.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals410" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+              <Name>Ввод и редактирование текста.</Name>
+              <Text>Ввод текста. Трансформация и редактирование текстового блока. Редактирование текстовых слоев. Расположение текста по произвольному контуру.</Text>
+              <Hours>4</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals411" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+              <Name>Корректирующие инструменты. </Name>
+              <Text>Инструменты для размытия и резкости. Тонирующие инструменты. Инструменты для клонирования фрагментов. Инструменты для настраиваемого копирования.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+            <Practicals4 diffgr:id="Practicals412" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+              <Name>Фильтры эффектов и деформаций.</Name>
+              <Text>Команды меню Filter. Назначение фильтров.</Text>
+              <Hours>2</Hours>
+            </Practicals4>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals5" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals5">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals5 diffgr:id="Practicals51" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Name>Основы работы с векторным редактором.</Name>
+              <Text>Настройка программного интерфейса векторного редактора. Способы создания графического изображения. Графические примитивы. Выделение и преобразование объектов.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals52" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+              <Name>Навыки работы с объектами.</Name>
+              <Text>Управление масштабом просмотра объектов. Режимы просмотра документа. Копирование объектов. Упорядочение размещения объектов. Группировка и соединение объектов. Логические операции.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals53" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+              <Name>Редактирование геометрической формы объектов.</Name>
+              <Text>Типы объектов: графические примитивы и свободно редактируемые объекты. Изменение геометрии объекта с помощью инструмента редактирования формы. Разделение объектов с помощью инструмента ножа. Удаление части объекта с помощью инструмента ластика.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals54" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+              <Name>Создание и редактирование контуров.</Name>
+              <Text>Создание объектов произвольной формы. Свободное рисование и кривые Безье. Навыки работы с контурами. Настройка контура. Создание и редактирование художественного контура.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals55" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+              <Name>Работа с цветом. </Name>
+              <Text>Природа цвета. Способы окрашивания объектов. Прозрачность объекта. Цветоделение.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals56" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+              <Name>Средства повышенной точности. </Name>
+              <Text>Линейки. Сетки. Направляющие. Точные преобразования объектов. Выравнивание и распределение объектов.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals57" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+              <Name>Разработка фирменного стиля. </Name>
+              <Text>Создание логотипов. Разработка фирменных бланков. Правила оформления визиток.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals58" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+              <Name>Оформление текста. </Name>
+              <Text>Виды текста: простой и фигурный текст. Простой текст: создание, редактирование, форматирование. Фигурный текст: создание, редактирование, форматирование, предназначение. Размещение текста вдоль кривой. Редактирование геометрической формы текста. Навыки работы с текстовыми блоками.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals59" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+              <Name>Планирование и создание макета. </Name>
+              <Text>Настойка документа. Планирование макета. Создание макета.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals510" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+              <Name>Работа с растровыми изображениями.</Name>
+              <Text>Импорт растровых изображений. Редактирование растровых изображений. Фигурная обрезка. Трассировка растровых изображений.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals511" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+              <Name>Использование спецэффектов.</Name>
+              <Text>Добавление перспективы. Создание тени. Применение огибающей. Деформация формы объекта. Применение объекта – линзы. Оконтуривание объектов. Эффект перетекания объектов. Придание объема объектам.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+            <Practicals5 diffgr:id="Practicals512" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+              <Name>Печать документа. </Name>
+              <Text>Планирование и создание макета с использованием всех элементов векторного редактора. Подготовка макета к печати. Настройка параметров печати. Режим цветоделения.</Text>
+              <Hours>2</Hours>
+            </Practicals5>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals6" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals6">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals6 diffgr:id="Practicals61" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Ознакомление с геометрическими и алгебраическими фракталами. Фракталы Коха, Мандельброта и другие.</Text>
+              <Hours>1</Hours>
+            </Practicals6>
+            <Practicals6 diffgr:id="Practicals62" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+              <Text>Геометрические фракталы.</Text>
+              <Hours>1</Hours>
+            </Practicals6>
+            <Practicals6 diffgr:id="Practicals63" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+              <Text>Алгебраические фракталы.</Text>
+              <Hours>2</Hours>
+            </Practicals6>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals7" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals7">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals7 diffgr:id="Practicals71" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Трехмерная графика (общие понятия). Области применения. Типы пространств. Моделирование объектов.</Text>
+              <Hours>1</Hours>
+            </Practicals7>
+            <Practicals7 diffgr:id="Practicals72" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+              <Text>Проецирование, виды проекций. Структуры тел для 3D-графики. Вращение многогранников.</Text>
+              <Hours>1</Hours>
+            </Practicals7>
+            <Practicals7 diffgr:id="Practicals73" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+              <Text>Преобразование и модификация объектов и групп объектов. Источники света. Визуализация сцены.</Text>
+              <Hours>2</Hours>
+            </Practicals7>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals8" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals8">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals8 diffgr:id="Practicals81" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Text>Построение по точкам и воспроизведение кривых. Построение кривых по точкам с помощью сплайнов. Аппроксимация кривых.</Text>
+              <Hours>1</Hours>
+            </Practicals8>
+            <Practicals8 diffgr:id="Practicals82" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+              <Text>Приближение и воспроизведение поверхностей. Однородные координаты. Трехмерные преобразования.
+</Text>
+              <Hours>1</Hours>
+            </Practicals8>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+      <DataTable>
+        <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+          <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Practicals9" msdata:UseCurrentLocale="true">
+            <xs:complexType>
+              <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="Practicals9">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="Name" type="xs:string" minOccurs="0" />
+                      <xs:element name="Text" type="xs:string" minOccurs="0" />
+                      <xs:element name="Hours" type="xs:string" minOccurs="0" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:choice>
+            </xs:complexType>
+          </xs:element>
+        </xs:schema>
+        <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+          <DocumentElement>
+            <Practicals9 diffgr:id="Practicals91" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+              <Hours />
+            </Practicals9>
+          </DocumentElement>
+        </diffgr:diffgram>
+      </DataTable>
+    </ListOfPracticals>
+  </PartTwo>
+</ChapterFour>

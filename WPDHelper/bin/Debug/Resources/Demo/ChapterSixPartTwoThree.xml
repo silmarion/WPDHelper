@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ChapterSixPartTwoThree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SubHeader1>6.2	Тематика самостоятельных работ</SubHeader1>
+  <SubHeader2>6.3	Перечень тем домашних заданий:</SubHeader2>
+  <IndependentWork>
+    <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+      <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="IndependentWorks" msdata:UseCurrentLocale="true">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="IndependentWorks">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="Text" type="xs:string" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+      </xs:element>
+    </xs:schema>
+    <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+      <DocumentElement>
+        <IndependentWorks diffgr:id="IndependentWorks1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+          <Text>Создание графических примитивов</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+          <Text>Создание элементов дизайна</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+          <Text>Создание элементов рекламного блока</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+          <Text>Создание этикетки</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+          <Text>Создание рекламного блока</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+          <Text>Создание макета обложки книги</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+          <Text>Создание доготипов. Разработка визитки</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+          <Text>Создание печатей. Дизайн текста</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+          <Text>Создание рекламного блока. Разработка упаковки</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+          <Text>Создание открытки</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks11" msdata:rowOrder="10" diffgr:hasChanges="inserted">
+          <Text>Фотомонтаж</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks12" msdata:rowOrder="11" diffgr:hasChanges="inserted">
+          <Text>Фоторетушь</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks13" msdata:rowOrder="12" diffgr:hasChanges="inserted">
+          <Text>Сделать объявление для печати</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
+          <Text>Сделать макет приглашения на мероприятие</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks15" msdata:rowOrder="14" diffgr:hasChanges="inserted">
+          <Text>Создание сцен и анимации 3 DStudio MAX</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks16" msdata:rowOrder="15" diffgr:hasChanges="inserted">
+          <Text>Присвоение материалов и текстур в 3DStudio Max</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks17" msdata:rowOrder="16" diffgr:hasChanges="inserted">
+          <Text>Деформации и модификаторы 3DStudio MAX</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks18" msdata:rowOrder="17" diffgr:hasChanges="inserted">
+          <Text>Ознакомление с геометрическими фракталами</Text>
+        </IndependentWorks>
+        <IndependentWorks diffgr:id="IndependentWorks19" msdata:rowOrder="18" diffgr:hasChanges="inserted">
+          <Text>Ознакомление с алгебраическими фракталами</Text>
+        </IndependentWorks>
+      </DocumentElement>
+    </diffgr:diffgram>
+  </IndependentWork>
+  <HomeWork>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="HomeWork" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="HomeWork">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <HomeWork diffgr:id="HomeWork1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Выбор цвета: цвет переднего плана - яркий желтый, цвет заднего плана - насыщенный голубой.</Text>
+            <Header>Задания по работе с Photoshop</Header>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Выбор цвета: цвет переднего плана – тёмный серый, цвет заднего плана – светлый красный.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>Показать, как восстанавливаются значения цветов переднего и заднего плана по умолчанию.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>Показать, как можно поменять местами цвет переднего плана и цвет заднего плана.</Text>
+            <Header>Показать, как можно поменять местами цвет переднего плана и цвет заднего плана.</Header>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>Выбор основного цвета в модели HSB: тон – 130°, насыщенность – 59%, яркость – 54%.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Выбор инструментов: полигональное лассо (PolygonalLasso), кисть (Brush), рука (Hand).</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Выбор инструментов: градиент (Gradient), лупа (Zoom), участок (Crop).</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>Выбор инструментов: пипетка (Eyedropper), пластырь (HealingBrush), текст (Text).</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+            <Text>Временное переключение инструментов (сначала выбрать кисть): рука, увеличивающая и уменьшающая лупа.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+            <Text>Временное переключение инструментов (сначала выбрать кисть): перемещение, пипетка.</Text>
+          </HomeWork>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+    <DataTable>
+      <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="HomeWork" msdata:UseCurrentLocale="true">
+          <xs:complexType>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+              <xs:element name="HomeWork">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Text" type="xs:string" minOccurs="0" />
+                    <xs:element name="Header" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:choice>
+          </xs:complexType>
+        </xs:element>
+      </xs:schema>
+      <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+        <DocumentElement>
+          <HomeWork diffgr:id="HomeWork1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+            <Text>Выбор цвета: основной цвет – яркий оранжевый, дополнительный цвет – ненасыщенный зелёный.</Text>
+            <Header>Задания по работе с CorelDRAW</Header>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+            <Text>Выбор цвета: основной цвет – средний серый, дополнительный цвет – светлый жёлтый.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+            <Text>Выбор основного цвета в модели HSV: тон – 96%, насыщенность – 74%, яркость – 63%.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+            <Text>Выбор инструментов: эллиптическое выделение (OvalSelection), кисть (Brush), рука (Hand).</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+            <Text>Выбор инструментов: ведёрко для заливки (PaintBucket), лупа (Magnifier), участок (Crop).</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+            <Text>Выбор инструментов: пипетка (Dropper), ручка (Pen), текст (Text).</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork7" msdata:rowOrder="6" diffgr:hasChanges="inserted">
+            <Text>Временное переключение инструментов (сначала выбрать кисть): рука, увеличивающая и уменьшающая лупа.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork8" msdata:rowOrder="7" diffgr:hasChanges="inserted">
+            <Text>Временное переключение инструментов (сначала выбрать кисть): поворот, перемещение слоя, пипетка.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork9" msdata:rowOrder="8" diffgr:hasChanges="inserted">
+            <Text>Показать любое главное меню, контекстное меню.</Text>
+          </HomeWork>
+          <HomeWork diffgr:id="HomeWork10" msdata:rowOrder="9" diffgr:hasChanges="inserted">
+            <Text>Показать, где находится палитра инструментов, палитра настроек, палитра выбора кисти.</Text>
+          </HomeWork>
+        </DocumentElement>
+      </diffgr:diffgram>
+    </DataTable>
+  </HomeWork>
+</ChapterSixPartTwoThree>

@@ -1,0 +1,6 @@
+d:\users\arado\documents\visual studio 2012\Projects\XmlWorker\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\bin\Debug\Library.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\bin\Debug\Library.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\obj\Debug\Library.dll
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\obj\Debug\Library.pdb
+C:\Users\arado_000\Documents\Visual Studio 2012\Projects\XmlWorker\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
